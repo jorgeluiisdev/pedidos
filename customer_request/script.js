@@ -1,9 +1,10 @@
 const tabela = {
-  "Hambúrguer": 15.00,
-  "Batata Frita": 8.00,
-  "Refrigerante": 5.00,
-  "Milkshake": 10.00,
-  "pizza": 10.00
+  "Coca-Cola":12.00,
+  "Cerveja Lata Itaipava":4.00,
+  "Cerveja Lata Skol":5.00,
+  "Espetinho de Frango":7.00,
+  "Espetinho de Boi":8.00,
+  "Ficha de Sinuca":1.00
 };
 
 let pedidos = [];
